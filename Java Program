@@ -3,6 +3,9 @@ class Abc{
 
   public static void main(String ar[])
   {
-    System.out.print("Welcome to the program..") 
+
+    System.out.print("Hey there! Are you new to Github? Lets start learning Github.");
+
+    System.out.print("Welcome to the program..");
   }
 }
