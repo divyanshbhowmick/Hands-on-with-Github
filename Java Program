@@ -3,5 +3,6 @@ class Abc{
 
   public static void main(String ar[])
   {
+    System.out.print("Hey there! Are you new to Github? Lets start learning Github.");
   }
 }
