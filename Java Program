@@ -3,5 +3,6 @@ class Abc{
 
   public static void main(String ar[])
   {
+    System.out.print("Welcome to the program..") 
   }
 }
